@@ -1,5 +1,6 @@
 <!-- ![front](./images/front.jpg) -->
-<img src="./images/front.jpg" alt="front" width="100%" height="220px"/>
+<!-- <img src="./images/front.jpg" alt="front" width="100%" height="220px"/> -->
+<img src="./images/life-motto.png" alt="life motto"/>
 
 <h1 align="center"> Hola, soy Fede! 👋 </h1>
 
