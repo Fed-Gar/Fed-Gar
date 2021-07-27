@@ -1,5 +1,5 @@
 <!-- ![front](./images/front.jpg) -->
-<img src="./images/front.jpg" alt="front" height="200"/>
+<img src="./images/front.jpg" alt="front" width="100%" height="200"/>
 
 <h1 align="center"> Hola, soy Fede! 👋 </h1>
 
