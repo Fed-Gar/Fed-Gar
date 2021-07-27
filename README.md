@@ -1,4 +1,4 @@
-![front](./images/front.jpg)
+![front](./images/front.jpg =100x100)
 
 <h1 align="center"> Hola, soy Fede! 👋 </h1>
 
