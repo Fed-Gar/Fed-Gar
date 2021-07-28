@@ -35,7 +35,20 @@ const Fede = {
 </div>
 
 <div>
-  <h3> Contactame! 😀 </h3>
+  <h3> 📍 Proyectos: </h3>
+  <div>
+    <h4> Food SPA </h4>
+    <span> <img src="./images/food/land.jpg" alt="landing page"/> </span>
+    <span> <img src="./images/food/home.jpg" alt="home"/> </span>
+    <span> <img src="./images/food/form.jpg" alt="form"/> </span>
+    <span> <img src="./images/food/details.jpg" alt="recipe details"/> </span>
+    <span> <img src="./images/food/error.jpg" alt="error"/> </span>
+  </div>
+  <h4> Más próximamente... 😎 </h4>
+</div>
+
+<div>
+  <h3> Contactame aquí! 😀 </h3>
   <a href="https://www.linkedin.com/in/federico-garcia-full-stack-developer/" 
      target="_blank"
      title="LinkedIn"
