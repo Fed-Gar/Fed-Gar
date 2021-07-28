@@ -1,10 +1,6 @@
-<img src="./images/life-motto.png" alt="life motto" width="100%" height="220px" border-radius="25px"/>
+<img src="./images/life-motto.png" alt="life motto" width="100%" height="220px"/>
 
-<div background-color="black" width="100%" height="220px">
-  <p> //life motto </p>
-</div>
-
-<h1 align="center"> Hola, soy Fede! 👋 </h1>
+<h2 align="center"> Hola, soy Fede! 👋 </h2>
 
 ```js
 const Fede = {
