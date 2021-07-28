@@ -19,7 +19,7 @@ const Fede = {
 }
 ```
 <div>
-  <h3> Lenguajes y Herramientas: </h3>
+  <h3> Lenguajes y Herramientas :computer: : </h3>
   <ul>
     <li> HTML </li>
     <li> CSS </li>
@@ -37,9 +37,9 @@ const Fede = {
 <div>
   <h3> Contactame! 😀 </h3>
   <a> 
-    <img src="./images/linkedin.svg" alt="LinkdIn"/> 
+    <img src="./images/linkedin.svg" alt="LinkdIn" height="30" width="30"/> 
   </a>
   <a> 
-    <img src="./images/gmail.svg" alt="Gmail"/>
+    <img src="./images/gmail.svg" alt="Gmail" height="30" width="30"/>
   </a>
 </div>
