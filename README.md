@@ -38,11 +38,11 @@ const Fede = {
   <h3> 📍 Proyectos: </h3>
   <div>
     <h4> Food SPA </h4>
-    <span> <img src="./images/food/land.jpg" alt="landing page" width="80px" height="80px" /> </span>
-    <span> <img src="./images/food/home.jpg" alt="home" width="80px" height="80px" /> </span>
-    <span> <img src="./images/food/form.jpg" alt="form" width="80px" height="80px" /> </span>
-    <span> <img src="./images/food/details.jpg" alt="recipe details" width="80px" height="80px" /> </span>
-    <span> <img src="./images/food/error.jpg" alt="error" width="80px" height="80px" /> </span>
+    <span> <img src="./images/food/land.jpg" alt="landing page" width="250px" height="250px" /> </span>
+    <span> <img src="./images/food/home.jpg" alt="home" width="250px" height="250px" /> </span>
+    <span> <img src="./images/food/form.jpg" alt="form" width="250px" height="250px" /> </span>
+    <span> <img src="./images/food/details.jpg" alt="recipe details" width="250px" height="250px" /> </span>
+    <span> <img src="./images/food/error.jpg" alt="error" width="250px" height="250px" /> </span>
   </div>
   <h4> Más próximamente... 😎 </h4>
 </div>
