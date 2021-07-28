@@ -1,6 +1,6 @@
 <img src="./images/life-motto.png" alt="life motto" width="100%" height="220px" border-radius="25px"/>
 
-<div backgound-color="black" width="100%" height="220px">
+<div background-color="black" width="100%" height="220px">
   <p> //life motto </p>
 </div>
 
