@@ -33,3 +33,13 @@ const Fede = {
     <li> Git </li>
   </ul>
 </div>
+
+<div>
+  <h3> Contactame! 😀 </h3>
+  <a> 
+    <img src="./images/linkedin.svg" alt="LinkdIn"/> 
+  </a>
+  <a> 
+    <img src="./images/gmail.svg" alt="Gmail"/>
+  </a>
+</div>
