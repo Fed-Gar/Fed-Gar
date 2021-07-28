@@ -1,4 +1,4 @@
-<img src="./images/life-motto.png" alt="life motto" width="100%" height="220px" border-radius="5px"/>
+<img src="./images/life-motto.png" alt="life motto" width="100%" height="220px" border-radius="25px"/>
 
 <h1 align="center"> Hola, soy Fede! 👋 </h1>
 
