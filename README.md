@@ -36,10 +36,10 @@ const Fede = {
 
 <div>
   <h3> Contactame! 😀 </h3>
-  <a> 
+  <a href="https://www.linkedin.com/in/federico-garcia-full-stack-developer/"> 
     <img src="./images/linkedin.svg" alt="LinkdIn" height="30" width="30"/> 
   </a>
-  <a> 
+  <a href="mailto:garcia.fed3rico@gmail.com"> 
     <img src="./images/gmail.svg" alt="Gmail" height="30" width="30"/>
   </a>
 </div>
