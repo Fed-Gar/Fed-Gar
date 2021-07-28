@@ -18,3 +18,18 @@ const Fede = {
     ],
 }
 ```
+<div>
+  <h3> Lenguajes y Herramientas: </h3>
+  <ul>
+    <li> HTML </li>
+    <li> CSS </li>
+    <li> React </li>
+    <li> Redux </li>
+    <li> JavaScript </li>
+    <li> Node JS </li>
+    <li> Express </li>
+    <li> PostgreSQL </li>
+    <li> Sequelize </li>
+    <li> Git </li>
+  </ul>
+</div>
